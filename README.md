@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhibhosle07
 - 👀 I’m interested in analysing and working with different reports or data 
-- 🌱 I’m currently learning Data Analytics and Machine Learning
+- 🌱 I’m currently working as a Business Analyst and working with Data Analytics and Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning and AI
 - 📫 How to reach me abhishekbhosle26@gmail.com
 
